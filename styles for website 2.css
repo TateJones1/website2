@@ -1,0 +1,19 @@
+/* Styles for Pictures and Body */
+
+img {
+    margin: auto 0%;
+    padding: 5%;
+    height: auto;
+    width: 50%;
+    display: block;
+    background-color: black;
+}
+p {
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: paleturquoise;
+}
+body {
+    background-color: green;
+}
