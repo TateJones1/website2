@@ -1,5 +1,11 @@
 /* Styles for Pictures and Body */
 
-title {
-    background-color: chartreuse;
+img {
+    display: block;
+    padding: 5%;
+    margin: auto auto;
+    width: 50%;
+    height: auto;
 }
+p {
+    font-family: 
