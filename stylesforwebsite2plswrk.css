@@ -1,0 +1,21 @@
+/* styles for website */
+
+img {
+    padding: 0%;
+    margin: auto;
+    background: fixed;
+    border: 2;
+    height: auto;
+    width: auto;
+    display: block;
+}
+p {
+    color: chartreuse;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+}
+body {
+    background: fixed;
+    background-color: coral;
+}
